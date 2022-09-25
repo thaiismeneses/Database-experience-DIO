@@ -1,0 +1,14 @@
+#### Desafio
+
+
+
+Neste Desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais(SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.
+
+
+
+Os **bancos de dados relacionais** são criados no paradigma da orientação a conjuntos. Dessa forma, os dados que ali estão disponíveis serão armazenados em tabelas. Cada tabela terá atributos e linhas ou registros responsáveis por organizar essas informações. São comumente utilizados para dados tabulares, que possuem sua inserção muito mais simples e permite, também, a recuperação de forma mais prática no dia a dia. A linguagem utilizada nesse formato é de SQL, Structured Query Language. 
+
+Já os **bancos de dados não relacionais** são responsáveis por atender a demandas que os bancos relacionais não conseguem suprir. Um exemplo de demandas são aqueles dados mistos, onde se misturam tabelas, imagens e mapas, por exemplo, que não poderão ser tabulados em colunas e linhas de tabela.
+
+Suas soluções são baseadas em armazenamento na nuvem. A linguagem utilizada nesse formato é NoSQL, Not Only SQL. 
+
